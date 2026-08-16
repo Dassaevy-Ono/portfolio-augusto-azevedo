@@ -48,4 +48,5 @@ npm run build
 
 ## Desenvolvimento
 
-Desenvolvido por **DSO Tech & Solutions**.
+Desenvolvido por **Dassaévy Ono
+**.
