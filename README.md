@@ -48,5 +48,4 @@ npm run build
 
 ## Desenvolvimento
 
-Desenvolvido por **Dassaévy Ono
-**.
+Desenvolvido por **Dassaévy Ono**.
